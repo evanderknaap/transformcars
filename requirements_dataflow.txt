@@ -1,0 +1,2 @@
+tensorflow_metadata==0.9.0
+tensorflow_transform==0.11.0
